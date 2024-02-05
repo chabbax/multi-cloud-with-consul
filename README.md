@@ -1,5 +1,4 @@
-### Demo project accompanying a [Consul crash course video](https://www.youtube.com/watch?v=s3I1kKKfjtQ) on YouTube
-
+### Multi-cloud failover with Hashicorp Consul
 
 Terraform commands to execute the script
 
@@ -24,6 +23,7 @@ terraform state list
 ```
 
 #### Get access to EKS cluster
+
 ```sh
 # install and configure awscli with access creds
 aws configure
